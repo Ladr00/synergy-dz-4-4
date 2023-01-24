@@ -14,7 +14,7 @@ main()
 	}
 	
 	int min, max;
-	min = max =mas [0];
+	min = max = mas [0];
 	
 	int sum = 0;
 	
